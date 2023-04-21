@@ -26,7 +26,7 @@ System Analyst at [Group Union](https://www.uniontelecom.com.br/) <br>
 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-## LinkedIn
+## Find me elsewhere 🌎
 
 [LinkedIn](https://www.linkedin.com/in/thiagomedeiros11/) <br>
 
