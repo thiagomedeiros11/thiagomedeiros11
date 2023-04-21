@@ -20,7 +20,7 @@ System Analyst at [Group Union](https://www.uniontelecom.com.br/) <br>
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://www.linkedin.com/in/thiagomedeiros11/)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## OS
 
