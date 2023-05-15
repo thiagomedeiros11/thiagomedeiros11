@@ -1,6 +1,6 @@
 ### Hey! I'm Thiago Medeiros! 👋
 
-System Analyst at [Group Union](https://www.uniontelecom.com.br/) <br>
+Full Stack Developer at [Santo Digital](https://santodigital.com.br/) <br>
 
 ## Favorite Stack
 
